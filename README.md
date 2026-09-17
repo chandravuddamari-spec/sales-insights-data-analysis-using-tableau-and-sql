@@ -122,3 +122,7 @@ I am a detail-oriented analyst who builds structure out of critical thinking, an
 **Contact Information:**
 - Email: sssaichandra375@gmail.com
 - Key Skills: SQL, Python, R, VBA, Tableau, Advanced Excel
+
+## Credits
+
+`Databases/db_dump.sql` restored from [mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL) by Ankit Gupta (MIT License).
